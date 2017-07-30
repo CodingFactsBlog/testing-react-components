@@ -1,12 +1,20 @@
-# basic-react-example
+# testing-react-components
 
-This example show how to create a basic application with React.
+This example show how to test React components with Jest and Enzyme
 
 ## Install
 
 To install all required packges run:
 ``` 
 npm install
+```
+
+## Testing
+
+You can run the tests executing:
+
+```
+npm run test
 ```
 
 ## Build and development
